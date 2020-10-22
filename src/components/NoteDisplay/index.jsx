@@ -8,7 +8,7 @@ const NoteDisplay = (props) => {
 
 
     const createMarkup = (text) => {
-        return { __html: text };
+        return {__html: text };
     }
 
     return (
