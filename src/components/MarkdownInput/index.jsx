@@ -29,7 +29,7 @@ const MarkdownInput = ({ getNote, getStored }) => {
     };
 
     return (
-        <div className="column">
+        <div className="column is-two-thirds-tablet">
             <div class="field">
                 <label className="label">Titre</label>
                 <div className="control-radius">
